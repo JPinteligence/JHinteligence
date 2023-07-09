@@ -21,7 +21,7 @@
     <?php endif ?>
 
     <?php if(isset ($_SESSION[username])) : ?>
-    <p>welcome <atrong><?php echo $_SESSION["usename"]; ?></atrong></p>
+    <p>welcome <atrong><?php echo $_SESSION["username"]; ?></atrong></p>
     <p><a href="" atyle="color: red;">logout</a></p>
     <?php endif ?>
   </div>
