@@ -10,7 +10,7 @@ $db = mysql_connect ("localhost" , "root" , "", "registration" );
 if (isset ($_post["register"])) {
   $username = mysql_real_escape_string($_post("username"]); 
   $email = mysql_real_escape_string($_post("email"]);
-  $password_1 = mysql_real_escape_string($_post(Password_1"]);
+  $password_1 = mysql_real_escape_string($_post(password_1"]);
   $password_2 = mysql_real_escape_string($_post(password_2"]);
   
 
