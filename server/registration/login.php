@@ -15,7 +15,7 @@
        <div class="input-group">
          <label>Password</label>
          <input type="password" name="password_1">
-       </div>
+     
        <div class=input-group">
           <botton type="submit" name="login" class="btn">login</botton> 
        </div>
