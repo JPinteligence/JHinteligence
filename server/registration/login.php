@@ -18,7 +18,7 @@
         <input type="password" name="password_1">
     </div>
     <div class="input-group">
-    <button type="submit" name="login" class="btn">login</button>
+    <button type="submit" name="https://jpjovic.app/server/registration/login.php" class="btn">login</button>
        </div>
        <p>
         Todavía no eres miembro?  <a href="https://jpjovic.app/server/registration/registrar.php">Regístrate</a>
