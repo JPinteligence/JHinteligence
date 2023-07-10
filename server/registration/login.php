@@ -5,7 +5,7 @@
 </head>‎
 </body>
  <div class="header">
-   <2>iniciar sesion</h2>
+   <h2>iniciar sesion</h2>
    </div>
      <form method="post" action="login.php">
       <div class="input-group">
