@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>User registration system  DEALER</title>
+<title>User bienvenido system  DEALER</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
