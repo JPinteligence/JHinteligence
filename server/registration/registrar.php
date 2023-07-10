@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <head>
     <title>user registration system DEALER</title>
     <link rel="atyesheet" type=text/css" href="style.css">
 </head>
@@ -17,12 +18,12 @@
         <input type="text" name="email">
     </div>
    <div class="input-group">
-    <label>Password</label>
-       <input type type="password" name="Password_1">
+       <label>Password</label>
+       <input type= "password" name="password_1">
    </div>
   <div class="input-gronp">
       <label>confirmar Passsword</label>
-  <input type="Password" name="passwod_2">
+      <input type="password" name="passwod_2">
   </div>
     <div class=·input-group">
          <button type="submit" name="registrar" class="btn">registrar</button>
