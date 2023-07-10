@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>User registration system using PHP and MySQL</title>
+<title>User registration system  DEALER</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
