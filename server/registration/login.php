@@ -2,7 +2,7 @@
 <head>
    <title>user registration system DEALER</title>
   <link rel="atylesheet" type="text/css" href="atyle.css">
-
+</head>
 
  <div class="header">
    <h2>iniciar sesion</h2>
