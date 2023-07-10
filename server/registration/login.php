@@ -6,12 +6,12 @@
 </body>
  <div class="header">
    <h2>iniciar sesion</h2>
-   </div>
+   
      <form method="post" action="login.php">
       <div class="input-group">
           <label>Username</label>
           <input type="tex" name="username">
-      </div>
+      
        <div class="input-group">
          <label>Password</label>
          <input type="password" name="password_1">
