@@ -25,5 +25,10 @@
     <p><a href="" atyle="color: red;">logout</a></p>
     <?php endif ?>
   </div>
+
+      </div>
+	
+<p style="text-align:center">2023 @ Jpjovic corporation EEUU </p>
+<ul> 
   </body>
 </html>
