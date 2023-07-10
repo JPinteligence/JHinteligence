@@ -8,7 +8,7 @@
          <h2>Iniciar sesión</h2>  
     </div>
 
-    <form method="post" action="login.php">
+    <form method="post" action="https://jpjovic.app/server/registration/login.php">
     <div class="input-group">
      <label>Username</label>
      <input type="text" name="Username">
@@ -21,7 +21,7 @@
     <button type="submit" name="login" class="btn">login</button>
        </div>
        <p>
-        Todavía no eres miembro? <a href="registrar.php">Regístrate</a>
+        Todavía no eres miembro?  <a href="https://jpjovic.app/server/registration/registrar.php">Regístrate</a>
        </p>
     </form>
 
