@@ -1,4 +1,3 @@
-<?php include(registrar.php");?>
 <!DOCTYPE html>
 <html>
     <title>user registration system DEALER</title>
