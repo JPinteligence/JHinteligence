@@ -1,7 +1,8 @@
-# Jpjoviccorporation
-site web Jpjovic corporation
+# JHINTELIGENCE 
+site web JH Inteligence 
 
-code by Jpjovic corporation  
+
+code by  
 
 diseño web of system gregory p.c 
 
